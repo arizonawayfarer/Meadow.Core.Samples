@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonEvents", "F7Micro\But
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walking_DigitalOutputs", "Walking_DigitalOutputs\Walking_DigitalOutputs.csproj", "{DE131C41-0928-41AC-AFC4-72F0BA61E7F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialLoopback", "SerialLoopback\SerialLoopback.csproj", "{4096F9B4-DCFF-46F6-897A-74D7A7047993}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{DE131C41-0928-41AC-AFC4-72F0BA61E7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE131C41-0928-41AC-AFC4-72F0BA61E7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE131C41-0928-41AC-AFC4-72F0BA61E7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4096F9B4-DCFF-46F6-897A-74D7A7047993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4096F9B4-DCFF-46F6-897A-74D7A7047993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4096F9B4-DCFF-46F6-897A-74D7A7047993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4096F9B4-DCFF-46F6-897A-74D7A7047993}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E8407C33-AED5-44A4-96A5-974E7A954E11} = {C1DB0C6C-C232-41EB-99FE-F1297EAB49AB}
